@@ -42,11 +42,11 @@ function autoAnswer() {
     if (void 0 === window.e) {
       alert("Please press the bookmarklet again before you can use the farmer, this is essensial for this.");
     } else {
-      farm();
+      farmz();
     }
   }
   
-  function farm() {
+  function farmz() {
     if (stopped === true) {
       return;
     }
@@ -59,7 +59,7 @@ function autoAnswer() {
       document.getElementsByClassName("_6t500vf")[0]?.click(); // Next question
       document.getElementsByClassName("_1kkrg8oi")[0]?.click(); // Next assignment
   
-      farm();
+      farmz();
     }, 1000);
   }
   
