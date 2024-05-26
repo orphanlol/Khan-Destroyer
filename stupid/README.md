@@ -1,4 +1,4 @@
-#### doesn't work as bookmarklet, and dragelement is more broken than deneu's hair
+#### run the gui two times to fix dragging issues
 ## credits for gui
 - khan academy for original khan logo
 - me for K.D. logo
