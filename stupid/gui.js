@@ -19,7 +19,7 @@ khansex.innerHTML = `<div style="width:240px; left: 1px; top: 1px; background-co
 <button onclick="github()">Github</button>
 <h5 style="font-size: 8px; font-style: normal !important; color: white !important;">GUI from Fireflight and Overload</h3>
 <h5 style="font-size: 8px; font-style: normal !important; color: white !important;">thanks wang</h3>
-<h5 style="font-size: 8px; font-style: normal !important; color: white !important;">refitted by this <a href="https://github.com/orphanlol">asshole</a></h3>
+<h5 style="font-size: 8px; font-style: normal !important; color: white !important;">skidied by this <a href="https://github.com/orphanlol">idiot</a></h3>
 </div>
 <br><br>
 <h1 style="font-size: 12px; font-style: normal !important; color: white !important;"></h1>
