@@ -33,7 +33,7 @@ dragElement(khansex.firstElementChild);
 document.body.appendChild(khansex);
 
 // runs answer overwrite so yes
-fetch('https://raw.githubusercontent.com/orphanlol/Khan-Destroyer/main/overwrite.js').then(r => r.text()).then(r => eval(r))
+fetch('https://raw.githubusercontent.com/orphanlol/Khan-Destroyer/main/src/overwrite.js').then(r => r.text()).then(r => eval(r))
 
 // skipper code
 function autoAnswer() {
